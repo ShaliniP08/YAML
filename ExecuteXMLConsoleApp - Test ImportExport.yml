@@ -1,0 +1,46 @@
+# Variable 'CalendarArtifactPath' was defined in the Variables tab
+# Variable 'CalendarRepoPath' was defined in the Variables tab
+# Variable 'CalendarRuleArtifactPath' was defined in the Variables tab
+# Variable 'CalendarRuleRepoPath' was defined in the Variables tab
+# Variable 'UserEmail' was defined in the Variables tab
+# Variable 'UserName' was defined in the Variables tab
+jobs:
+- job: Job_1
+  displayName: Agent job 1
+  pool:
+    vmImage: vs2017-win2016
+  steps:
+  - checkout: self
+  - task: PowerShell@2
+    displayName: Export Data Agent Job
+    inputs:
+      filePath: DataMigrationConsoleApp/ExportDataConsoleApp/ExecuteApplication.ps1
+      workingDirectory: DataMigrationConsoleApp/ExportDataConsoleApp
+  - task: PublishPipelineArtifact@1
+    displayName: Publish Exported Files
+    inputs:
+      path: DataMigrationConsoleApp/ExportDataConsoleApp
+      artifactName: CalendarAndCalendarRuleData
+  - task: PowerShell@2
+    displayName: Push XML in ADO
+    enabled: False
+    inputs:
+      filePath: DataMigrationConsoleApp/ExportDataConsoleApp/PushFileInRepo.ps1
+      arguments: -UserEmail $(UserEmail) -UserName $(UserName) -CalendarArtifactPath $(CalendarArtifactPath) -CalendarRepoPath $(CalendarRepoPath) -CalendarRuleArtifactPath $(CalendarRuleArtifactPath) -CalendarRuleRepoPath $(CalendarRuleRepoPath)
+  - task: PublishPipelineArtifact@1
+    displayName: Publish Pipeline Artifact
+    enabled: False
+    inputs:
+      path: DataMigrationConsoleApp/ImportDataConsoleApp
+      artifactName: UpdatedData
+  - task: PowerShell@2
+    displayName: Import Data Agent Job
+    inputs:
+      filePath: DataMigrationConsoleApp/ImportDataConsoleApp/ExecuteApplication.ps1
+      workingDirectory: DataMigrationConsoleApp/ImportDataConsoleApp
+  - task: PublishPipelineArtifact@1
+    displayName: Publish Pipeline Artifact
+    inputs:
+      path: DataMigrationConsoleApp/ImportDataConsoleApp
+      artifactName: EntitiesData
+...
