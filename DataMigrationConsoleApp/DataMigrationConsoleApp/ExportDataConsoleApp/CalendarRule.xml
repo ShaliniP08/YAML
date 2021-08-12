@@ -1,0 +1,240 @@
+<resultset morerecords="0" paging-cookie="&lt;cookie page=&quot;1&quot;&gt;&lt;calendarruleid last=&quot;{21AC992C-8CF6-EB11-94EF-000D3AC9FFCC}&quot; first=&quot;{8782191E-7CF6-EB11-94EF-000D3AC9FFCC}&quot; /&gt;&lt;/cookie&gt;">
+  <result>
+    <versionnumber>3906895</versionnumber>
+    <effectiveintervalend date="8/16/2021" time="12:00 AM">2021-08-16T00:00:00-00:00</effectiveintervalend>
+    <rank formattedvalue="0">0</rank>
+    <pattern>FREQ=DAILY;INTERVAL=1;COUNT=1</pattern>
+    <subcode formattedvalue="5">5</subcode>
+    <businessunitid>{AF80976C-A2F2-EB11-94EE-000D3AC9F2B8}</businessunitid>
+    <timecode formattedvalue="2">2</timecode>
+    <name>Independence Day</name>
+    <description>Holiday Rule</description>
+    <modifiedby dsc="" name="Deep Singh" yomi="Deep Singh" type="8">{F164F3D4-ACF5-EB11-94EF-000D3AC9FFCC}</modifiedby>
+    <calendarid type="4003">{5E090114-7CF6-EB11-94EF-000D3AC9FFCC}</calendarid>
+    <effectiveintervalstart date="8/15/2021" time="12:00 AM">2021-08-15T00:00:00-00:00</effectiveintervalstart>
+    <issimple name="No">0</issimple>
+    <createdon date="8/6/2021" time="6:04 AM">2021-08-06T06:04:11-00:00</createdon>
+    <createdby dsc="" name="Deep Singh" yomi="Deep Singh" type="8">{F164F3D4-ACF5-EB11-94EF-000D3AC9FFCC}</createdby>
+    <duration formattedvalue="1,440">1440</duration>
+    <extentcode formattedvalue="2">2</extentcode>
+    <timezonecode formattedvalue="-1">-1</timezonecode>
+    <calendarruleid>{8782191E-7CF6-EB11-94EF-000D3AC9FFCC}</calendarruleid>
+    <starttime date="8/15/2021" time="12:00 AM">2021-08-15T00:00:00-00:00</starttime>
+    <modifiedon date="8/6/2021" time="6:46 AM">2021-08-06T06:46:21-00:00</modifiedon>
+    <organizationid>{07D3B050-427D-40A5-B3D4-785E81E1660B}</organizationid>
+  </result>
+  <result>
+    <versionnumber>3906896</versionnumber>
+    <effectiveintervalend date="8/26/2021" time="12:00 AM">2021-08-26T00:00:00-00:00</effectiveintervalend>
+    <rank formattedvalue="0">0</rank>
+    <pattern>FREQ=DAILY;INTERVAL=1;COUNT=1</pattern>
+    <subcode formattedvalue="5">5</subcode>
+    <businessunitid>{AF80976C-A2F2-EB11-94EE-000D3AC9F2B8}</businessunitid>
+    <timecode formattedvalue="2">2</timecode>
+    <name>chirstmas day</name>
+    <description>Holiday Rule</description>
+    <modifiedby dsc="" name="Deep Singh" yomi="Deep Singh" type="8">{F164F3D4-ACF5-EB11-94EF-000D3AC9FFCC}</modifiedby>
+    <calendarid type="4003">{5E090114-7CF6-EB11-94EF-000D3AC9FFCC}</calendarid>
+    <effectiveintervalstart date="8/25/2021" time="12:00 AM">2021-08-25T00:00:00-00:00</effectiveintervalstart>
+    <issimple name="No">0</issimple>
+    <createdon date="8/6/2021" time="6:04 AM">2021-08-06T06:04:20-00:00</createdon>
+    <createdby dsc="" name="Deep Singh" yomi="Deep Singh" type="8">{F164F3D4-ACF5-EB11-94EF-000D3AC9FFCC}</createdby>
+    <duration formattedvalue="1,440">1440</duration>
+    <extentcode formattedvalue="2">2</extentcode>
+    <timezonecode formattedvalue="-1">-1</timezonecode>
+    <calendarruleid>{8982191E-7CF6-EB11-94EF-000D3AC9FFCC}</calendarruleid>
+    <starttime date="8/25/2021" time="12:00 AM">2021-08-25T00:00:00-00:00</starttime>
+    <modifiedon date="8/6/2021" time="6:46 AM">2021-08-06T06:46:21-00:00</modifiedon>
+    <organizationid>{07D3B050-427D-40A5-B3D4-785E81E1660B}</organizationid>
+  </result>
+  <result>
+    <versionnumber>3906897</versionnumber>
+    <effectiveintervalend date="10/3/2021" time="12:00 AM">2021-10-03T00:00:00-00:00</effectiveintervalend>
+    <rank formattedvalue="0">0</rank>
+    <pattern>FREQ=DAILY;INTERVAL=1;COUNT=1</pattern>
+    <subcode formattedvalue="5">5</subcode>
+    <businessunitid>{AF80976C-A2F2-EB11-94EE-000D3AC9F2B8}</businessunitid>
+    <timecode formattedvalue="2">2</timecode>
+    <name>Gandhi Jayanti</name>
+    <description>Holiday Rule</description>
+    <modifiedby dsc="" name="Deep Singh" yomi="Deep Singh" type="8">{F164F3D4-ACF5-EB11-94EF-000D3AC9FFCC}</modifiedby>
+    <calendarid type="4003">{5E090114-7CF6-EB11-94EF-000D3AC9FFCC}</calendarid>
+    <effectiveintervalstart date="10/2/2021" time="12:00 AM">2021-10-02T00:00:00-00:00</effectiveintervalstart>
+    <issimple name="No">0</issimple>
+    <createdon date="8/6/2021" time="6:05 AM">2021-08-06T06:05:25-00:00</createdon>
+    <createdby dsc="" name="Deep Singh" yomi="Deep Singh" type="8">{F164F3D4-ACF5-EB11-94EF-000D3AC9FFCC}</createdby>
+    <duration formattedvalue="1,440">1440</duration>
+    <extentcode formattedvalue="2">2</extentcode>
+    <timezonecode formattedvalue="-1">-1</timezonecode>
+    <calendarruleid>{B2D91A4A-7CF6-EB11-94EF-000D3AC9FFCC}</calendarruleid>
+    <starttime date="10/2/2021" time="12:00 AM">2021-10-02T00:00:00-00:00</starttime>
+    <modifiedon date="8/6/2021" time="6:46 AM">2021-08-06T06:46:21-00:00</modifiedon>
+    <organizationid>{07D3B050-427D-40A5-B3D4-785E81E1660B}</organizationid>
+  </result>
+  <result>
+    <offset formattedvalue="480">480</offset>
+    <versionnumber>3906875</versionnumber>
+    <rank formattedvalue="0">0</rank>
+    <subcode formattedvalue="1">1</subcode>
+    <businessunitid>{AF80976C-A2F2-EB11-94EE-000D3AC9F2B8}</businessunitid>
+    <timecode formattedvalue="0">0</timecode>
+    <modifiedby dsc="" name="Deep Singh" yomi="Deep Singh" type="8">{F164F3D4-ACF5-EB11-94EF-000D3AC9FFCC}</modifiedby>
+    <calendarid type="4003">{3AE676BA-7EF6-EB11-94EF-000D3AC9FFCC}</calendarid>
+    <issimple name="Yes">1</issimple>
+    <createdon date="8/6/2021" time="6:22 AM">2021-08-06T06:22:53-00:00</createdon>
+    <createdby dsc="" name="Deep Singh" yomi="Deep Singh" type="8">{F164F3D4-ACF5-EB11-94EF-000D3AC9FFCC}</createdby>
+    <duration formattedvalue="540">540</duration>
+    <effort formattedvalue="1.00">1</effort>
+    <timezonecode formattedvalue="-1">-1</timezonecode>
+    <calendarruleid>{3BE676BA-7EF6-EB11-94EF-000D3AC9FFCC}</calendarruleid>
+    <modifiedon date="8/6/2021" time="6:22 AM">2021-08-06T06:22:53-00:00</modifiedon>
+    <organizationid>{07D3B050-427D-40A5-B3D4-785E81E1660B}</organizationid>
+  </result>
+  <result>
+    <offset formattedvalue="750">750</offset>
+    <versionnumber>3906876</versionnumber>
+    <rank formattedvalue="0">0</rank>
+    <subcode formattedvalue="4">4</subcode>
+    <businessunitid>{AF80976C-A2F2-EB11-94EE-000D3AC9F2B8}</businessunitid>
+    <timecode formattedvalue="2">2</timecode>
+    <modifiedby dsc="" name="Deep Singh" yomi="Deep Singh" type="8">{F164F3D4-ACF5-EB11-94EF-000D3AC9FFCC}</modifiedby>
+    <calendarid type="4003">{3AE676BA-7EF6-EB11-94EF-000D3AC9FFCC}</calendarid>
+    <issimple name="Yes">1</issimple>
+    <createdon date="8/6/2021" time="6:22 AM">2021-08-06T06:22:53-00:00</createdon>
+    <createdby dsc="" name="Deep Singh" yomi="Deep Singh" type="8">{F164F3D4-ACF5-EB11-94EF-000D3AC9FFCC}</createdby>
+    <duration formattedvalue="30">30</duration>
+    <timezonecode formattedvalue="-1">-1</timezonecode>
+    <calendarruleid>{3CE676BA-7EF6-EB11-94EF-000D3AC9FFCC}</calendarruleid>
+    <modifiedon date="8/6/2021" time="6:22 AM">2021-08-06T06:22:53-00:00</modifiedon>
+    <organizationid>{07D3B050-427D-40A5-B3D4-785E81E1660B}</organizationid>
+  </result>
+  <result>
+    <versionnumber>3906892</versionnumber>
+    <effectiveintervalend date="12/30/9999" time="11:59 PM">9999-12-30T23:59:59-00:00</effectiveintervalend>
+    <isselected name="Yes">1</isselected>
+    <groupdesignator>FC5769FC-4DE9-445d-8F4E-6E9869E60857</groupdesignator>
+    <rank formattedvalue="2">2</rank>
+    <pattern>FREQ=WEEKLY;INTERVAL=1;BYDAY=SU,MO,TU,WE,TH,FR,SA</pattern>
+    <innercalendarid type="4003">{3AE676BA-7EF6-EB11-94EF-000D3AC9FFCC}</innercalendarid>
+    <isvaried name="No">0</isvaried>
+    <businessunitid>{AF80976C-A2F2-EB11-94EE-000D3AC9F2B8}</businessunitid>
+    <description>Weekly Single Rule</description>
+    <modifiedby dsc="" name="Deep Singh" yomi="Deep Singh" type="8">{F164F3D4-ACF5-EB11-94EF-000D3AC9FFCC}</modifiedby>
+    <calendarid type="4003">{1946E1B3-7EF6-EB11-94EF-000D3AC9FFCC}</calendarid>
+    <createdon date="8/6/2021" time="6:22 AM">2021-08-06T06:22:54-00:00</createdon>
+    <createdby dsc="" name="Deep Singh" yomi="Deep Singh" type="8">{F164F3D4-ACF5-EB11-94EF-000D3AC9FFCC}</createdby>
+    <duration formattedvalue="1,440">1440</duration>
+    <timezonecode formattedvalue="190">190</timezonecode>
+    <calendarruleid>{3DE676BA-7EF6-EB11-94EF-000D3AC9FFCC}</calendarruleid>
+    <starttime date="8/6/2021" time="12:00 AM">2021-08-06T00:00:00-00:00</starttime>
+    <modifiedon date="8/6/2021" time="6:45 AM">2021-08-06T06:45:58-00:00</modifiedon>
+    <organizationid>{07D3B050-427D-40A5-B3D4-785E81E1660B}</organizationid>
+  </result>
+  <result>
+    <versionnumber>3906898</versionnumber>
+    <effectiveintervalend date="8/31/2021" time="12:00 AM">2021-08-31T00:00:00-00:00</effectiveintervalend>
+    <rank formattedvalue="0">0</rank>
+    <pattern>FREQ=DAILY;INTERVAL=1;COUNT=1</pattern>
+    <subcode formattedvalue="5">5</subcode>
+    <businessunitid>{AF80976C-A2F2-EB11-94EE-000D3AC9F2B8}</businessunitid>
+    <timecode formattedvalue="2">2</timecode>
+    <name>Janamashtmi</name>
+    <description>Holiday Rule</description>
+    <modifiedby dsc="" name="Deep Singh" yomi="Deep Singh" type="8">{F164F3D4-ACF5-EB11-94EF-000D3AC9FFCC}</modifiedby>
+    <calendarid type="4003">{5E090114-7CF6-EB11-94EF-000D3AC9FFCC}</calendarid>
+    <effectiveintervalstart date="8/30/2021" time="12:00 AM">2021-08-30T00:00:00-00:00</effectiveintervalstart>
+    <issimple name="No">0</issimple>
+    <createdon date="8/6/2021" time="6:46 AM">2021-08-06T06:46:21-00:00</createdon>
+    <createdby dsc="" name="Deep Singh" yomi="Deep Singh" type="8">{F164F3D4-ACF5-EB11-94EF-000D3AC9FFCC}</createdby>
+    <duration formattedvalue="1,440">1440</duration>
+    <extentcode formattedvalue="2">2</extentcode>
+    <timezonecode formattedvalue="-1">-1</timezonecode>
+    <calendarruleid>{D9FB41FF-81F6-EB11-94EF-000D3AC9FFCC}</calendarruleid>
+    <starttime date="8/30/2021" time="12:00 AM">2021-08-30T00:00:00-00:00</starttime>
+    <modifiedon date="8/6/2021" time="6:46 AM">2021-08-06T06:46:21-00:00</modifiedon>
+    <organizationid>{07D3B050-427D-40A5-B3D4-785E81E1660B}</organizationid>
+  </result>
+  <result>
+    <versionnumber>3906921</versionnumber>
+    <effectiveintervalend date="12/26/2021" time="12:00 AM">2021-12-26T00:00:00-00:00</effectiveintervalend>
+    <rank formattedvalue="0">0</rank>
+    <pattern>FREQ=DAILY;INTERVAL=1;COUNT=1</pattern>
+    <subcode formattedvalue="5">5</subcode>
+    <businessunitid>{AF80976C-A2F2-EB11-94EE-000D3AC9F2B8}</businessunitid>
+    <timecode formattedvalue="2">2</timecode>
+    <name>chirstmas day</name>
+    <description>Holiday Rule</description>
+    <modifiedby dsc="" name="Deep Singh" yomi="Deep Singh" type="8">{F164F3D4-ACF5-EB11-94EF-000D3AC9FFCC}</modifiedby>
+    <calendarid type="4003">{0E529F08-8CF6-EB11-94EF-000D3AC9FFCC}</calendarid>
+    <effectiveintervalstart date="12/25/2021" time="12:00 AM">2021-12-25T00:00:00-00:00</effectiveintervalstart>
+    <issimple name="No">0</issimple>
+    <createdon date="8/6/2021" time="7:58 AM">2021-08-06T07:58:31-00:00</createdon>
+    <createdby dsc="" name="Deep Singh" yomi="Deep Singh" type="8">{F164F3D4-ACF5-EB11-94EF-000D3AC9FFCC}</createdby>
+    <duration formattedvalue="1,440">1440</duration>
+    <extentcode formattedvalue="2">2</extentcode>
+    <timezonecode formattedvalue="-1">-1</timezonecode>
+    <calendarruleid>{8EEDA214-8CF6-EB11-94EF-000D3AC9FFCC}</calendarruleid>
+    <starttime date="12/25/2021" time="12:00 AM">2021-12-25T00:00:00-00:00</starttime>
+    <modifiedon date="8/6/2021" time="7:58 AM">2021-08-06T07:58:31-00:00</modifiedon>
+    <organizationid>{07D3B050-427D-40A5-B3D4-785E81E1660B}</organizationid>
+  </result>
+  <result>
+    <offset formattedvalue="480">480</offset>
+    <versionnumber>3906934</versionnumber>
+    <rank formattedvalue="0">0</rank>
+    <subcode formattedvalue="1">1</subcode>
+    <businessunitid>{AF80976C-A2F2-EB11-94EE-000D3AC9F2B8}</businessunitid>
+    <timecode formattedvalue="0">0</timecode>
+    <modifiedby dsc="" name="Deep Singh" yomi="Deep Singh" type="8">{F164F3D4-ACF5-EB11-94EF-000D3AC9FFCC}</modifiedby>
+    <calendarid type="4003">{1AAC992C-8CF6-EB11-94EF-000D3AC9FFCC}</calendarid>
+    <issimple name="Yes">1</issimple>
+    <createdon date="8/6/2021" time="7:59 AM">2021-08-06T07:59:17-00:00</createdon>
+    <createdby dsc="" name="Deep Singh" yomi="Deep Singh" type="8">{F164F3D4-ACF5-EB11-94EF-000D3AC9FFCC}</createdby>
+    <duration formattedvalue="540">540</duration>
+    <effort formattedvalue="1.00">1</effort>
+    <timezonecode formattedvalue="-1">-1</timezonecode>
+    <calendarruleid>{1BAC992C-8CF6-EB11-94EF-000D3AC9FFCC}</calendarruleid>
+    <modifiedon date="8/6/2021" time="7:59 AM">2021-08-06T07:59:17-00:00</modifiedon>
+    <organizationid>{07D3B050-427D-40A5-B3D4-785E81E1660B}</organizationid>
+  </result>
+  <result>
+    <offset formattedvalue="750">750</offset>
+    <versionnumber>3906935</versionnumber>
+    <rank formattedvalue="0">0</rank>
+    <subcode formattedvalue="4">4</subcode>
+    <businessunitid>{AF80976C-A2F2-EB11-94EE-000D3AC9F2B8}</businessunitid>
+    <timecode formattedvalue="2">2</timecode>
+    <modifiedby dsc="" name="Deep Singh" yomi="Deep Singh" type="8">{F164F3D4-ACF5-EB11-94EF-000D3AC9FFCC}</modifiedby>
+    <calendarid type="4003">{1AAC992C-8CF6-EB11-94EF-000D3AC9FFCC}</calendarid>
+    <issimple name="Yes">1</issimple>
+    <createdon date="8/6/2021" time="7:59 AM">2021-08-06T07:59:17-00:00</createdon>
+    <createdby dsc="" name="Deep Singh" yomi="Deep Singh" type="8">{F164F3D4-ACF5-EB11-94EF-000D3AC9FFCC}</createdby>
+    <duration formattedvalue="30">30</duration>
+    <timezonecode formattedvalue="-1">-1</timezonecode>
+    <calendarruleid>{1DAC992C-8CF6-EB11-94EF-000D3AC9FFCC}</calendarruleid>
+    <modifiedon date="8/6/2021" time="7:59 AM">2021-08-06T07:59:17-00:00</modifiedon>
+    <organizationid>{07D3B050-427D-40A5-B3D4-785E81E1660B}</organizationid>
+  </result>
+  <result>
+    <versionnumber>3906944</versionnumber>
+    <effectiveintervalend date="12/30/9999" time="11:59 PM">9999-12-30T23:59:59-00:00</effectiveintervalend>
+    <isselected name="Yes">1</isselected>
+    <groupdesignator>FC5769FC-4DE9-445d-8F4E-6E9869E60857</groupdesignator>
+    <rank formattedvalue="2">2</rank>
+    <pattern>FREQ=WEEKLY;INTERVAL=1;BYDAY=SU,MO,TU,WE,TH</pattern>
+    <innercalendarid type="4003">{1AAC992C-8CF6-EB11-94EF-000D3AC9FFCC}</innercalendarid>
+    <isvaried name="No">0</isvaried>
+    <businessunitid>{AF80976C-A2F2-EB11-94EE-000D3AC9F2B8}</businessunitid>
+    <description>Weekly Single Rule</description>
+    <modifiedby dsc="" name="Deep Singh" yomi="Deep Singh" type="8">{F164F3D4-ACF5-EB11-94EF-000D3AC9FFCC}</modifiedby>
+    <calendarid type="4003">{943FA126-8CF6-EB11-94EF-000D3AC9FFCC}</calendarid>
+    <createdon date="8/6/2021" time="7:59 AM">2021-08-06T07:59:17-00:00</createdon>
+    <createdby dsc="" name="Deep Singh" yomi="Deep Singh" type="8">{F164F3D4-ACF5-EB11-94EF-000D3AC9FFCC}</createdby>
+    <duration formattedvalue="1,440">1440</duration>
+    <timezonecode formattedvalue="6">6</timezonecode>
+    <calendarruleid>{21AC992C-8CF6-EB11-94EF-000D3AC9FFCC}</calendarruleid>
+    <starttime date="8/6/2021" time="12:00 AM">2021-08-06T00:00:00-00:00</starttime>
+    <modifiedon date="8/6/2021" time="7:59 AM">2021-08-06T07:59:30-00:00</modifiedon>
+    <organizationid>{07D3B050-427D-40A5-B3D4-785E81E1660B}</organizationid>
+  </result>
+</resultset>

@@ -1,0 +1,59 @@
+<resultset morerecords="0" paging-cookie="&lt;cookie page=&quot;1&quot;&gt;&lt;calendarid last=&quot;{943FA126-8CF6-EB11-94EF-000D3AC9FFCC}&quot; first=&quot;{5E090114-7CF6-EB11-94EF-000D3AC9FFCC}&quot; /&gt;&lt;/cookie&gt;">
+  <result>
+    <businessunitid dsc="" name="ztdev" type="10">{AF80976C-A2F2-EB11-94EE-000D3AC9F2B8}</businessunitid>
+    <type name="Holiday Schedule" formattedvalue="2">2</type>
+    <createdby name="Deep Singh" yomi="Deep Singh" dsc="" type="8">{F164F3D4-ACF5-EB11-94EF-000D3AC9FFCC}</createdby>
+    <organizationid name="ztdev" dsc="" type="1019">{07D3B050-427D-40A5-B3D4-785E81E1660B}</organizationid>
+    <versionnumber>3906894</versionnumber>
+    <description>India Festival Holidays</description>
+    <isshared>0</isshared>
+    <createdon date="8/6/2021" time="6:03 AM">2021-08-06T06:03:55-00:00</createdon>
+    <calendarid>{5E090114-7CF6-EB11-94EF-000D3AC9FFCC}</calendarid>
+    <modifiedby dsc="" yomi="Deep Singh" name="Deep Singh" type="8">{F164F3D4-ACF5-EB11-94EF-000D3AC9FFCC}</modifiedby>
+    <modifiedon date="8/6/2021" time="6:46 AM">2021-08-06T06:46:21-00:00</modifiedon>
+    <name>India Festival Holidays</name>
+  </result>
+  <result>
+    <businessunitid dsc="" name="ztdev" type="10">{AF80976C-A2F2-EB11-94EE-000D3AC9F2B8}</businessunitid>
+    <holidayschedulecalendarid name="India Festival Holidays" type="4003">{5E090114-7CF6-EB11-94EF-000D3AC9FFCC}</holidayschedulecalendarid>
+    <type name="Customer Service" formattedvalue="1">1</type>
+    <createdby name="Deep Singh" yomi="Deep Singh" dsc="" type="8">{F164F3D4-ACF5-EB11-94EF-000D3AC9FFCC}</createdby>
+    <organizationid name="ztdev" dsc="" type="1019">{07D3B050-427D-40A5-B3D4-785E81E1660B}</organizationid>
+    <versionnumber>3906891</versionnumber>
+    <isshared>0</isshared>
+    <createdon date="8/6/2021" time="6:22 AM">2021-08-06T06:22:43-00:00</createdon>
+    <calendarid>{1946E1B3-7EF6-EB11-94EF-000D3AC9FFCC}</calendarid>
+    <modifiedby dsc="" yomi="Deep Singh" name="Deep Singh" type="8">{F164F3D4-ACF5-EB11-94EF-000D3AC9FFCC}</modifiedby>
+    <modifiedon date="8/6/2021" time="6:45 AM">2021-08-06T06:45:58-00:00</modifiedon>
+    <name>REG-09 Northern Ireland public holidays</name>
+  </result>
+  <result>
+    <businessunitid dsc="" name="ztdev" type="10">{AF80976C-A2F2-EB11-94EE-000D3AC9F2B8}</businessunitid>
+    <type name="Holiday Schedule" formattedvalue="2">2</type>
+    <createdby name="Deep Singh" yomi="Deep Singh" dsc="" type="8">{F164F3D4-ACF5-EB11-94EF-000D3AC9FFCC}</createdby>
+    <organizationid name="ztdev" dsc="" type="1019">{07D3B050-427D-40A5-B3D4-785E81E1660B}</organizationid>
+    <versionnumber>3906920</versionnumber>
+    <description>USA Holidays</description>
+    <isshared>0</isshared>
+    <createdon date="8/6/2021" time="7:58 AM">2021-08-06T07:58:16-00:00</createdon>
+    <calendarid>{0E529F08-8CF6-EB11-94EF-000D3AC9FFCC}</calendarid>
+    <modifiedby dsc="" yomi="Deep Singh" name="Deep Singh" type="8">{F164F3D4-ACF5-EB11-94EF-000D3AC9FFCC}</modifiedby>
+    <modifiedon date="8/6/2021" time="7:58 AM">2021-08-06T07:58:31-00:00</modifiedon>
+    <name>USA Holidays</name>
+  </result>
+  <result>
+    <businessunitid dsc="" name="ztdev" type="10">{AF80976C-A2F2-EB11-94EE-000D3AC9F2B8}</businessunitid>
+    <holidayschedulecalendarid name="USA Holidays" type="4003">{0E529F08-8CF6-EB11-94EF-000D3AC9FFCC}</holidayschedulecalendarid>
+    <type name="Customer Service" formattedvalue="1">1</type>
+    <createdby name="Deep Singh" yomi="Deep Singh" dsc="" type="8">{F164F3D4-ACF5-EB11-94EF-000D3AC9FFCC}</createdby>
+    <organizationid name="ztdev" dsc="" type="1019">{07D3B050-427D-40A5-B3D4-785E81E1660B}</organizationid>
+    <versionnumber>3906943</versionnumber>
+    <description>USA Holidays CS</description>
+    <isshared>0</isshared>
+    <createdon date="8/6/2021" time="7:59 AM">2021-08-06T07:59:03-00:00</createdon>
+    <calendarid>{943FA126-8CF6-EB11-94EF-000D3AC9FFCC}</calendarid>
+    <modifiedby dsc="" yomi="Deep Singh" name="Deep Singh" type="8">{F164F3D4-ACF5-EB11-94EF-000D3AC9FFCC}</modifiedby>
+    <modifiedon date="8/6/2021" time="7:59 AM">2021-08-06T07:59:30-00:00</modifiedon>
+    <name>USA Holidays CS</name>
+  </result>
+</resultset>
